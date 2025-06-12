@@ -1,0 +1,6 @@
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\Encryptor\bin\Debug\Encryptor.exe
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\Encryptor\bin\Debug\Encryptor.pdb
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\Encryptor\obj\Debug\Encryptor.csproj.AssemblyReference.cache
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\Encryptor\obj\Debug\Encryptor.csproj.CoreCompileInputs.cache
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\Encryptor\obj\Debug\Encryptor.exe
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\Encryptor\obj\Debug\Encryptor.pdb

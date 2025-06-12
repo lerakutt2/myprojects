@@ -1,0 +1,15 @@
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\Encryptor1\bin\Debug\net8.0\Encryptor1.exe
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\Encryptor1\bin\Debug\net8.0\Encryptor1.deps.json
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\Encryptor1\bin\Debug\net8.0\Encryptor1.runtimeconfig.json
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\Encryptor1\bin\Debug\net8.0\Encryptor1.dll
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\Encryptor1\bin\Debug\net8.0\Encryptor1.pdb
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\Encryptor1\obj\Debug\net8.0\Encryptor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\Encryptor1\obj\Debug\net8.0\Encryptor1.AssemblyInfoInputs.cache
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\Encryptor1\obj\Debug\net8.0\Encryptor1.AssemblyInfo.cs
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\Encryptor1\obj\Debug\net8.0\Encryptor1.csproj.CoreCompileInputs.cache
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\Encryptor1\obj\Debug\net8.0\Encryptor1.sourcelink.json
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\Encryptor1\obj\Debug\net8.0\Encryptor1.dll
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\Encryptor1\obj\Debug\net8.0\refint\Encryptor1.dll
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\Encryptor1\obj\Debug\net8.0\Encryptor1.pdb
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\Encryptor1\obj\Debug\net8.0\Encryptor1.genruntimeconfig.cache
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\Encryptor1\obj\Debug\net8.0\ref\Encryptor1.dll

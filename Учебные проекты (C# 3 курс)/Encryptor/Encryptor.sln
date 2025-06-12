@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryptor", "Encryptor.csproj", "{391AE81D-F062-4EF3-A1FC-D4DEB019ADA8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encryptor1", "..\Encryptor1\Encryptor1.csproj", "{F2B8365F-F4AD-4184-A426-3CB2CB3C3648}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encryptor2", "..\Encryptor2\Encryptor2.csproj", "{BD9662BD-B0CC-4438-8006-84A7326D6D48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoAnalysis", "..\CryptoAnalysis\CryptoAnalysis.csproj", "{F07B1B20-CA51-4AF5-A32D-E450ABE4C694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{391AE81D-F062-4EF3-A1FC-D4DEB019ADA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391AE81D-F062-4EF3-A1FC-D4DEB019ADA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391AE81D-F062-4EF3-A1FC-D4DEB019ADA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391AE81D-F062-4EF3-A1FC-D4DEB019ADA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B8365F-F4AD-4184-A426-3CB2CB3C3648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B8365F-F4AD-4184-A426-3CB2CB3C3648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B8365F-F4AD-4184-A426-3CB2CB3C3648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B8365F-F4AD-4184-A426-3CB2CB3C3648}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD9662BD-B0CC-4438-8006-84A7326D6D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9662BD-B0CC-4438-8006-84A7326D6D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9662BD-B0CC-4438-8006-84A7326D6D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9662BD-B0CC-4438-8006-84A7326D6D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F07B1B20-CA51-4AF5-A32D-E450ABE4C694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F07B1B20-CA51-4AF5-A32D-E450ABE4C694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F07B1B20-CA51-4AF5-A32D-E450ABE4C694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F07B1B20-CA51-4AF5-A32D-E450ABE4C694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3521EED-9B3E-452A-B465-DEB2FBE36D9F}
+	EndGlobalSection
+EndGlobal

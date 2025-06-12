@@ -1,0 +1,15 @@
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\CryptoAnalysis\bin\Debug\net8.0\CryptoAnalysis.exe
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\CryptoAnalysis\bin\Debug\net8.0\CryptoAnalysis.deps.json
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\CryptoAnalysis\bin\Debug\net8.0\CryptoAnalysis.runtimeconfig.json
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\CryptoAnalysis\bin\Debug\net8.0\CryptoAnalysis.dll
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\CryptoAnalysis\bin\Debug\net8.0\CryptoAnalysis.pdb
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\CryptoAnalysis\obj\Debug\net8.0\CryptoAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\CryptoAnalysis\obj\Debug\net8.0\CryptoAnalysis.AssemblyInfoInputs.cache
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\CryptoAnalysis\obj\Debug\net8.0\CryptoAnalysis.AssemblyInfo.cs
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\CryptoAnalysis\obj\Debug\net8.0\CryptoAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\CryptoAnalysis\obj\Debug\net8.0\CryptoAnalysis.sourcelink.json
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\CryptoAnalysis\obj\Debug\net8.0\CryptoAnalysis.dll
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\CryptoAnalysis\obj\Debug\net8.0\refint\CryptoAnalysis.dll
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\CryptoAnalysis\obj\Debug\net8.0\CryptoAnalysis.pdb
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\CryptoAnalysis\obj\Debug\net8.0\CryptoAnalysis.genruntimeconfig.cache
+C:\Users\ready\OneDrive\Desktop\git\my_projects\myprojects\Учебные проекты (C#)\CryptoAnalysis\obj\Debug\net8.0\ref\CryptoAnalysis.dll
