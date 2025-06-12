@@ -1,0 +1,22 @@
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyVector\bin\Debug\MyVector.exe.config
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyVector\bin\Debug\MyVector.exe
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyVector\bin\Debug\MyVector.pdb
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyVector\obj\Debug\MyVector.csproj.AssemblyReference.cache
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyVector\obj\Debug\MyVector.csproj.SuggestedBindingRedirects.cache
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyVector\obj\Debug\MyVector.Form1.resources
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyVector\obj\Debug\MyVector.Properties.Resources.resources
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyVector\obj\Debug\MyVector.csproj.GenerateResource.cache
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyVector\obj\Debug\MyVector.csproj.CoreCompileInputs.cache
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyVector\obj\Debug\MyVector.exe
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyVector\obj\Debug\MyVector.pdb
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyVector — копия\bin\Debug\MyVector.exe.config
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyVector — копия\bin\Debug\MyVector.exe
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyVector — копия\bin\Debug\MyVector.pdb
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyVector — копия\obj\Debug\MyVector.csproj.AssemblyReference.cache
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyVector — копия\obj\Debug\MyVector.csproj.SuggestedBindingRedirects.cache
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyVector — копия\obj\Debug\MyVector.Form1.resources
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyVector — копия\obj\Debug\MyVector.Properties.Resources.resources
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyVector — копия\obj\Debug\MyVector.csproj.GenerateResource.cache
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyVector — копия\obj\Debug\MyVector.csproj.CoreCompileInputs.cache
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyVector — копия\obj\Debug\MyVector.exe
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyVector — копия\obj\Debug\MyVector.pdb

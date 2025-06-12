@@ -1,0 +1,11 @@
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Bill\bin\Debug\Bill.exe.config
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Bill\bin\Debug\Bill.exe
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Bill\bin\Debug\Bill.pdb
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Bill\obj\Debug\Bill.csproj.AssemblyReference.cache
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Bill\obj\Debug\Bill.csproj.SuggestedBindingRedirects.cache
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Bill\obj\Debug\Bill.Form1.resources
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Bill\obj\Debug\Bill.Properties.Resources.resources
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Bill\obj\Debug\Bill.csproj.GenerateResource.cache
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Bill\obj\Debug\Bill.csproj.CoreCompileInputs.cache
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Bill\obj\Debug\Bill.exe
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Bill\obj\Debug\Bill.pdb

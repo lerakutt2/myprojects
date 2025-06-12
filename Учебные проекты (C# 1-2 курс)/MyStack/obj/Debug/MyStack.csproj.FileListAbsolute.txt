@@ -1,0 +1,22 @@
+C:\Users\ready\OneDrive\Desktop\hentai\программы\MyStack\bin\Debug\MyStack.exe.config
+C:\Users\ready\OneDrive\Desktop\hentai\программы\MyStack\bin\Debug\MyStack.exe
+C:\Users\ready\OneDrive\Desktop\hentai\программы\MyStack\bin\Debug\MyStack.pdb
+C:\Users\ready\OneDrive\Desktop\hentai\программы\MyStack\obj\Debug\MyStack.csproj.AssemblyReference.cache
+C:\Users\ready\OneDrive\Desktop\hentai\программы\MyStack\obj\Debug\MyStack.csproj.SuggestedBindingRedirects.cache
+C:\Users\ready\OneDrive\Desktop\hentai\программы\MyStack\obj\Debug\MyStack.Form1.resources
+C:\Users\ready\OneDrive\Desktop\hentai\программы\MyStack\obj\Debug\MyStack.Properties.Resources.resources
+C:\Users\ready\OneDrive\Desktop\hentai\программы\MyStack\obj\Debug\MyStack.csproj.GenerateResource.cache
+C:\Users\ready\OneDrive\Desktop\hentai\программы\MyStack\obj\Debug\MyStack.csproj.CoreCompileInputs.cache
+C:\Users\ready\OneDrive\Desktop\hentai\программы\MyStack\obj\Debug\MyStack.exe
+C:\Users\ready\OneDrive\Desktop\hentai\программы\MyStack\obj\Debug\MyStack.pdb
+C:\Users\ready\OneDrive\Desktop\саод\SAOD_2255_Kutygina_Valeria\Task 3 my stack\MyStack\bin\Debug\MyStack.exe.config
+C:\Users\ready\OneDrive\Desktop\саод\SAOD_2255_Kutygina_Valeria\Task 3 my stack\MyStack\bin\Debug\MyStack.exe
+C:\Users\ready\OneDrive\Desktop\саод\SAOD_2255_Kutygina_Valeria\Task 3 my stack\MyStack\bin\Debug\MyStack.pdb
+C:\Users\ready\OneDrive\Desktop\саод\SAOD_2255_Kutygina_Valeria\Task 3 my stack\MyStack\obj\Debug\MyStack.csproj.AssemblyReference.cache
+C:\Users\ready\OneDrive\Desktop\саод\SAOD_2255_Kutygina_Valeria\Task 3 my stack\MyStack\obj\Debug\MyStack.csproj.SuggestedBindingRedirects.cache
+C:\Users\ready\OneDrive\Desktop\саод\SAOD_2255_Kutygina_Valeria\Task 3 my stack\MyStack\obj\Debug\MyStack.Form1.resources
+C:\Users\ready\OneDrive\Desktop\саод\SAOD_2255_Kutygina_Valeria\Task 3 my stack\MyStack\obj\Debug\MyStack.Properties.Resources.resources
+C:\Users\ready\OneDrive\Desktop\саод\SAOD_2255_Kutygina_Valeria\Task 3 my stack\MyStack\obj\Debug\MyStack.csproj.GenerateResource.cache
+C:\Users\ready\OneDrive\Desktop\саод\SAOD_2255_Kutygina_Valeria\Task 3 my stack\MyStack\obj\Debug\MyStack.csproj.CoreCompileInputs.cache
+C:\Users\ready\OneDrive\Desktop\саод\SAOD_2255_Kutygina_Valeria\Task 3 my stack\MyStack\obj\Debug\MyStack.exe
+C:\Users\ready\OneDrive\Desktop\саод\SAOD_2255_Kutygina_Valeria\Task 3 my stack\MyStack\obj\Debug\MyStack.pdb

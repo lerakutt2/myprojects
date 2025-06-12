@@ -1,0 +1,22 @@
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyList\bin\Debug\MyList.exe.config
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyList\bin\Debug\MyList.exe
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyList\bin\Debug\MyList.pdb
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyList\obj\Debug\MyList.csproj.AssemblyReference.cache
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyList\obj\Debug\MyList.csproj.SuggestedBindingRedirects.cache
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyList\obj\Debug\MyList.Form1.resources
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyList\obj\Debug\MyList.Properties.Resources.resources
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyList\obj\Debug\MyList.csproj.GenerateResource.cache
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyList\obj\Debug\MyList.csproj.CoreCompileInputs.cache
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyList\obj\Debug\MyList.exe
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyList\obj\Debug\MyList.pdb
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyList — копия\bin\Debug\MyList.exe.config
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyList — копия\bin\Debug\MyList.exe
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyList — копия\bin\Debug\MyList.pdb
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyList — копия\obj\Debug\MyList.csproj.AssemblyReference.cache
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyList — копия\obj\Debug\MyList.csproj.SuggestedBindingRedirects.cache
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyList — копия\obj\Debug\MyList.Form1.resources
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyList — копия\obj\Debug\MyList.Properties.Resources.resources
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyList — копия\obj\Debug\MyList.csproj.GenerateResource.cache
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyList — копия\obj\Debug\MyList.csproj.CoreCompileInputs.cache
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyList — копия\obj\Debug\MyList.exe
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\MyList — копия\obj\Debug\MyList.pdb

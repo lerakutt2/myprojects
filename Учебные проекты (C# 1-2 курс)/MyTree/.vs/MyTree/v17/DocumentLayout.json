@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ready\\OneDrive\\Desktop\\git\\\u0421\u0410\u041E\u0414\\MyTree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ready\\OneDrive\\Desktop\\git\\\u0421\u0410\u041E\u0414\\MyTree\\MyTree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyTree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ready\\OneDrive\\Desktop\\git\\\u0421\u0410\u041E\u0414\\MyTree\\TreeNode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TreeNode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ready\\OneDrive\\Desktop\\git\\\u0421\u0410\u041E\u0414\\MyTree\\MyBSTDict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyBSTDict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ready\\OneDrive\\Desktop\\git\\\u0421\u0410\u041E\u0414\\MyTree\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TreeNode.cs",
+              "DocumentMoniker": "C:\\Users\\ready\\OneDrive\\Desktop\\git\\\u0421\u0410\u041E\u0414\\MyTree\\TreeNode.cs",
+              "RelativeDocumentMoniker": "TreeNode.cs",
+              "ToolTip": "C:\\Users\\ready\\OneDrive\\Desktop\\git\\\u0421\u0410\u041E\u0414\\MyTree\\TreeNode.cs",
+              "RelativeToolTip": "TreeNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:22:15.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyBSTDict.cs",
+              "DocumentMoniker": "C:\\Users\\ready\\OneDrive\\Desktop\\git\\\u0421\u0410\u041E\u0414\\MyTree\\MyBSTDict.cs",
+              "RelativeDocumentMoniker": "MyBSTDict.cs",
+              "ToolTip": "C:\\Users\\ready\\OneDrive\\Desktop\\git\\\u0421\u0410\u041E\u0414\\MyTree\\MyBSTDict.cs",
+              "RelativeToolTip": "MyBSTDict.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:22:15.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyTree.cs",
+              "DocumentMoniker": "C:\\Users\\ready\\OneDrive\\Desktop\\git\\\u0421\u0410\u041E\u0414\\MyTree\\MyTree.cs",
+              "RelativeDocumentMoniker": "MyTree.cs",
+              "ToolTip": "C:\\Users\\ready\\OneDrive\\Desktop\\git\\\u0421\u0410\u041E\u0414\\MyTree\\MyTree.cs",
+              "RelativeToolTip": "MyTree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:22:15.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\ready\\OneDrive\\Desktop\\git\\\u0421\u0410\u041E\u0414\\MyTree\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ready\\OneDrive\\Desktop\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0410\u041E\u0414\\MyTree\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0410\u041E\u0414\\MyTree\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-03T06:22:15.742Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 264,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

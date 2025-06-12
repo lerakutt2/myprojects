@@ -1,0 +1,8 @@
+C:\Users\ready\OneDrive\Desktop\hentai\программы\BracketConsole\bin\Debug\BracketConsole.exe.config
+C:\Users\ready\OneDrive\Desktop\hentai\программы\BracketConsole\bin\Debug\BracketConsole.exe
+C:\Users\ready\OneDrive\Desktop\hentai\программы\BracketConsole\bin\Debug\BracketConsole.pdb
+C:\Users\ready\OneDrive\Desktop\hentai\программы\BracketConsole\obj\Debug\BracketConsole.csproj.AssemblyReference.cache
+C:\Users\ready\OneDrive\Desktop\hentai\программы\BracketConsole\obj\Debug\BracketConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\ready\OneDrive\Desktop\hentai\программы\BracketConsole\obj\Debug\BracketConsole.csproj.CoreCompileInputs.cache
+C:\Users\ready\OneDrive\Desktop\hentai\программы\BracketConsole\obj\Debug\BracketConsole.exe
+C:\Users\ready\OneDrive\Desktop\hentai\программы\BracketConsole\obj\Debug\BracketConsole.pdb

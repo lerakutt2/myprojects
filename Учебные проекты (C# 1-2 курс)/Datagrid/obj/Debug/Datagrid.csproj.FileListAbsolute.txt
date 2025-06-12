@@ -1,0 +1,22 @@
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Datagrid\bin\Debug\Datagrid.exe.config
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Datagrid\bin\Debug\Datagrid.exe
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Datagrid\bin\Debug\Datagrid.pdb
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Datagrid\obj\Debug\Datagrid.csproj.AssemblyReference.cache
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Datagrid\obj\Debug\Datagrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Datagrid\obj\Debug\Datagrid.Form1.resources
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Datagrid\obj\Debug\Datagrid.Properties.Resources.resources
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Datagrid\obj\Debug\Datagrid.csproj.GenerateResource.cache
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Datagrid\obj\Debug\Datagrid.csproj.CoreCompileInputs.cache
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Datagrid\obj\Debug\Datagrid.exe
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Datagrid\obj\Debug\Datagrid.pdb
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Летняя практика (C#)\Datagrid\bin\Debug\Datagrid.exe.config
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Летняя практика (C#)\Datagrid\bin\Debug\Datagrid.exe
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Летняя практика (C#)\Datagrid\bin\Debug\Datagrid.pdb
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Летняя практика (C#)\Datagrid\obj\Debug\Datagrid.csproj.AssemblyReference.cache
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Летняя практика (C#)\Datagrid\obj\Debug\Datagrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Летняя практика (C#)\Datagrid\obj\Debug\Datagrid.Form1.resources
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Летняя практика (C#)\Datagrid\obj\Debug\Datagrid.Properties.Resources.resources
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Летняя практика (C#)\Datagrid\obj\Debug\Datagrid.csproj.GenerateResource.cache
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Летняя практика (C#)\Datagrid\obj\Debug\Datagrid.csproj.CoreCompileInputs.cache
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Летняя практика (C#)\Datagrid\obj\Debug\Datagrid.exe
+C:\Users\ready\OneDrive\Desktop\hentai\программы\Летняя практика (C#)\Datagrid\obj\Debug\Datagrid.pdb

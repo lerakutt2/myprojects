@@ -1,0 +1,22 @@
+C:\Users\ready\OneDrive\Desktop\hentai\программы\MyQueueNew\bin\Debug\MyQueueNew.exe.config
+C:\Users\ready\OneDrive\Desktop\hentai\программы\MyQueueNew\bin\Debug\MyQueueNew.exe
+C:\Users\ready\OneDrive\Desktop\hentai\программы\MyQueueNew\bin\Debug\MyQueueNew.pdb
+C:\Users\ready\OneDrive\Desktop\hentai\программы\MyQueueNew\obj\Debug\MyQueueNew.csproj.AssemblyReference.cache
+C:\Users\ready\OneDrive\Desktop\hentai\программы\MyQueueNew\obj\Debug\MyQueueNew.csproj.SuggestedBindingRedirects.cache
+C:\Users\ready\OneDrive\Desktop\hentai\программы\MyQueueNew\obj\Debug\MyQueueNew.Form1.resources
+C:\Users\ready\OneDrive\Desktop\hentai\программы\MyQueueNew\obj\Debug\MyQueueNew.Properties.Resources.resources
+C:\Users\ready\OneDrive\Desktop\hentai\программы\MyQueueNew\obj\Debug\MyQueueNew.csproj.GenerateResource.cache
+C:\Users\ready\OneDrive\Desktop\hentai\программы\MyQueueNew\obj\Debug\MyQueueNew.csproj.CoreCompileInputs.cache
+C:\Users\ready\OneDrive\Desktop\hentai\программы\MyQueueNew\obj\Debug\MyQueueNew.exe
+C:\Users\ready\OneDrive\Desktop\hentai\программы\MyQueueNew\obj\Debug\MyQueueNew.pdb
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\SAOD_2255_Kutygina_Valeria\MyQueueNew\bin\Debug\MyQueueNew.exe.config
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\SAOD_2255_Kutygina_Valeria\MyQueueNew\bin\Debug\MyQueueNew.exe
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\SAOD_2255_Kutygina_Valeria\MyQueueNew\bin\Debug\MyQueueNew.pdb
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\SAOD_2255_Kutygina_Valeria\MyQueueNew\obj\Debug\MyQueueNew.csproj.AssemblyReference.cache
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\SAOD_2255_Kutygina_Valeria\MyQueueNew\obj\Debug\MyQueueNew.csproj.SuggestedBindingRedirects.cache
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\SAOD_2255_Kutygina_Valeria\MyQueueNew\obj\Debug\MyQueueNew.Form1.resources
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\SAOD_2255_Kutygina_Valeria\MyQueueNew\obj\Debug\MyQueueNew.Properties.Resources.resources
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\SAOD_2255_Kutygina_Valeria\MyQueueNew\obj\Debug\MyQueueNew.csproj.GenerateResource.cache
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\SAOD_2255_Kutygina_Valeria\MyQueueNew\obj\Debug\MyQueueNew.csproj.CoreCompileInputs.cache
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\SAOD_2255_Kutygina_Valeria\MyQueueNew\obj\Debug\MyQueueNew.exe
+C:\Users\ready\OneDrive\Desktop\3 семестр\САОД\SAOD_2255_Kutygina_Valeria\MyQueueNew\obj\Debug\MyQueueNew.pdb
